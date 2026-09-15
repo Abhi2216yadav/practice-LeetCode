@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
