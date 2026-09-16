@@ -15,10 +15,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -69,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
