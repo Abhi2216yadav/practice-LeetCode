@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -50,6 +52,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
