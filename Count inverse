@@ -1,0 +1,34 @@
+Problem Statement : Count inverse
+
+Given an array of integers arr[]. Find the Inversion Count in the array.
+
+Two elements arr[i] and arr[j] form an inversion if arr[i] > arr[j] and i < j.
+
+Inversion Count: For an array, inversion count indicates how far (or close) the array is from being sorted. If the array is already sorted, then the inversion count is 0.
+
+If an array is sorted in the reverse order, then the inversion count is the maximum.
+
+
+
+Inversion Count : Measuring How Far an Array is from Being Sorted
+
+Imagine you’re lining up students for a group photo, arranging them from shortest to tallest. If a taller student ends up standing before a shorter one, you’ll have to switch their places. Each such switch is like an inversion. If the students are already in the correct order, no switches are needed, giving an inversion count of zero. But if the tallest students stand at the front and the shortest at the back, you’ll need to make many switches, resulting in the highest inversion count. Similarly, in an array, inversions indicate how much the order is messed up fewer inversions mean the array is almost sorted, while more inversions mean it’s far from being sorted.
+
+
+
+Example 1 :
+Input: arr[] = [2, 4, 1, 3, 5]
+Output: 3
+Explanation: The sequence 2, 4, 1, 3, 5 has three inversions (2, 1), (4, 1), (4, 3).
+
+
+Example 2 :
+Input: arr[] = [2, 3, 4, 5, 6]
+Output: 0
+Explanation: As the sequence is already sorted so there is no inversion count.
+
+
+Example 3 :
+Input: arr[] = [10, 10, 10]
+Output: 0
+Explanation: As all the elements of array are same, so there is no inversion count.
