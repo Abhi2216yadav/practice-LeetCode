@@ -36,6 +36,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0877-stone-game](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
