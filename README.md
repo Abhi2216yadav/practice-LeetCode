@@ -38,6 +38,7 @@
 | [0136-single-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0877-stone-game) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
