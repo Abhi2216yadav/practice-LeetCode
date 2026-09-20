@@ -13,6 +13,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0079-word-search) |
+| [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -66,6 +67,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -112,6 +114,7 @@
 | [0075-sort-colors](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
