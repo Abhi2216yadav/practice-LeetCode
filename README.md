@@ -14,6 +14,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0079-word-search) |
 | [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -170,12 +171,14 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
