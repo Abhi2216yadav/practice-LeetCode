@@ -14,6 +14,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -68,6 +69,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -81,6 +83,7 @@
 | [0075-sort-colors](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
