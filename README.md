@@ -35,6 +35,7 @@
 | [0015-3sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0054-spiral-matrix) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
