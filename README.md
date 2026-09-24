@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0206-reverse-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -236,5 +237,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
