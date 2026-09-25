@@ -135,6 +135,7 @@
 | [0141-linked-list-cycle](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -149,6 +150,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -248,5 +251,6 @@
 | [0141-linked-list-cycle](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
