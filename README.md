@@ -59,6 +59,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -96,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
@@ -104,6 +106,7 @@
 | [0053-maximum-subarray](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -227,6 +230,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -253,4 +257,20 @@
 | [0206-reverse-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
