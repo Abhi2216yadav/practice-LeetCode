@@ -13,6 +13,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -215,6 +216,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
