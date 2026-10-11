@@ -64,6 +64,7 @@
 | [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -327,4 +328,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
