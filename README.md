@@ -66,6 +66,7 @@
 | [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -108,6 +109,7 @@
 | [0169-majority-element](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
@@ -187,6 +189,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
