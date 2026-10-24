@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
@@ -22,6 +23,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2409-count-days-spent-together](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhi2216yadav/practice-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
